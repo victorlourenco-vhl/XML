@@ -16,6 +16,17 @@
   - Conteúdo web
 
 - Estrutura do XML:
-  - Prólogo
+  - Prólogo (Começo do documento - comentários e insturções)
   - Corpo do Documento
   - Epílogo
+
+- Estrutura básica de do XML:
+~~~xml
+<?xml version="1.0" encoding="utf-8"?>
+~~~
+
+- Codificações mais usadas
+  - UTF-8
+  - UTF-16
+  - Latin-1
+  - ASCII
