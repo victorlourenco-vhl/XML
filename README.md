@@ -25,6 +25,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 ~~~
 
+- Além disso, é possível definir se o documento é considerado autônomo(standalone). Essa informação indica se esse documento depende de informações externas
+
 - Codificações mais usadas
   - UTF-8
   - UTF-16
