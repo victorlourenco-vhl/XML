@@ -8,3 +8,7 @@
   - Interoperabilidade
   - Experiência
   - Extensibilidade
+- Vantagens do XML:
+  - Comunicação de dados
+  - Migração de dados
+  - Conteúdo web
